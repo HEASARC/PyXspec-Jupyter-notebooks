@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+style="fill-rule: nonzero; stroke-linecap: round; stroke-linejoin: round; transform: scale(1,-1);" 
+version="1.1" 
+viewbox="         1178.567749          4130.842285          5289.679688           923.211914" 
+width="100%" height="100%" preserveAspectRatio="xMidYMid" 
+>
+<style>
+  .fn { font-family: Arial,Helvetica,sans-serif; }
+  .fN { font-family: Arial,Helvetica,sans-serif; font-weight: bold;}
+  .fr { font-family: Times,Times-Roman,Times New Roman,serif; }
+  .fR { font-family: Times,Times-Roman,Times New Roman,serif; font-weight: bold;}
+  .fi { font-family: Times,Times-Roman,Times New Roman,serif; font-style: italic;}
+  .fI { font-family: Times,Times-Roman,Times New Roman,serif; font-style: italic; font-weight: bold;}
+  .fs { font-family: Zapf-Chancery,Apple Chancery,URW Chancery L,cursive;}
+  .fS { font-family: Zapf-Chancery,Apple Chancery,URW Chancery L,cursive;font-weight:bold}
+  .fc { font-family: Arial Narrow,Helvetica Narrow,Arial,Helvetica,sans-serif;}
+  .fC { font-family: Arial Narrow,Helvetica Narrow,Arial,Helvetica,sans-serif; font-weight:bold;}
+</style>
+<g style="color: rgb(0, 0, 0); fill: currentColor; stroke: currentColor; stroke-width: 4">
+<text transform='translate(1202,4722) scale(1,-1)'><tspan class='fn' style='font-size: 2215%;'  ><tspan class='fr'  >&#x00A0;XSPEC&#x00A0;version:&#x00A0;12.12.0a_d</tspan></tspan></text>
+<text transform='translate(1515,4261) scale(1,-1)'><tspan class='fn' style='font-size: 1329%;'  >Build&#x00A0;Date/Time:&#x00A0;Thu&#x00A0;Sep&#x00A0;&#x00A0;9&#x00A0;13:09:02&#x00A0;2021</tspan></text>
+</g>
+<!-- _PGPLOT_SVG_ATEND: viewbox="         1178.567749          4130.842285          5289.679688           923.211914" -->
+</svg>
