@@ -15,4 +15,6 @@ A brief summary for each N in PyXspecWalkthroughN is:
 
 5 - Producing Plots: Modifying the Defaults
 
+PyXspecIXPEPolarPlot is an example using IXPE data which makes a contour plot in polar coordinates.
+
 These notebooks assume XSPEC v12.12 or later.
